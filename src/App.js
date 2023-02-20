@@ -1,6 +1,6 @@
 import './App.css'
 import { Header } from './containers'
-import { Navbar } from './components'
+import { Brand, Navbar } from './components'
 
 function App () {
   return (
@@ -9,13 +9,13 @@ function App () {
         <Navbar/>
         <Header/>
       </div>
-      {/* <Brand/>
-                                                                                          <WhatGPT3/>
-                                                                                          <Features/>
-                                                                                          <Possibility/>
-                                                                                          <CTA/>
-                                                                                          <Blog/>
-                                                                                          <Footer/> */}
+      <Brand/>
+      {/* <WhatGPT3/>
+                            <Features/>
+                            <Possibility/>
+                            <CTA/>
+                            <Blog/>
+                            <Footer/> */}
     </div>
   )
 }
