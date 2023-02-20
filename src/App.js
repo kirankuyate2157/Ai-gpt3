@@ -1,5 +1,5 @@
 import './App.css'
-import { Blog, Possibility, Features, WhatGPT3, Header } from './containers'
+import { Footer, Blog, Possibility, Features, WhatGPT3, Header } from './containers'
 import { CTA, Brand, Navbar } from './components'
 
 function App () {
@@ -15,7 +15,7 @@ function App () {
       <Possibility/>
       <CTA/>
       <Blog/>
-      {/*<Footer/> */}
+      <Footer/>
     </div>
   )
 }
