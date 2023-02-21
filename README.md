@@ -6,9 +6,10 @@
 
 
 
-## for more visit wesite  you find there more beatifule and amaing experience of UI ✌️💖💫
+## for more..  Visit website  you find there more beatifule and amazing experience of UI ✌️💖💫
 https://ai-gpt3-mu.vercel.app/
 - used tech react,css..,
+<br> <br> <br> <br> <br> <br> <br> 
 
 # Thanks for visiting to my repository 💖😍🌟.
   - if incase you like this repo please do stare 🌟 to this repository.
@@ -17,4 +18,4 @@ https://ai-gpt3-mu.vercel.app/
 
 
   
-  <br> <br> <br> <br> <br> <br> <br> <br> <br> 
+  <br> <br> 
